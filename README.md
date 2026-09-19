@@ -11,7 +11,7 @@
 
 - **Pekerjaan Saat ini**: Mahasiswa
 - **Sedang mendalami**: Programming, Git & GitHub Workflow
-- **Target**: Meningkatkan kemampuan programming dan menjadi developer
+- **Target**: Menjadi programmer atau web developer
 - **Fun fact**: Mencoba project baru
 
 ---
