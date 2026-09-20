@@ -37,9 +37,3 @@
 </p>
 
 ---
-
-### GitHub Stats (opsional)
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Avaviel89&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
